@@ -9,10 +9,12 @@
       $(document).ready(function () {
         //nth-child(n), nth-of-type(n) : n은 1부터 시작
 
+        //div요소에서 모든 자식요소 중 2번째의 요소로 p요소이면 스타일 적용
         $("p:nth-child(2)").css({
           color: "red",
         });
 
+        //div요소에서 2번째에 해당하는 p요소에 스타일 적용
         $("p:nth-of-type(2)").css({
           color: "blue",
         });
