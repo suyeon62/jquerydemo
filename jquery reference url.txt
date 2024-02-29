@@ -1,0 +1,10 @@
+
+- jquery튜토리얼
+https://www.w3schools.com/jquery/default.asp
+
+https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_hide
+
+https://api.jquery.com/
+
+- jquery로 구현한 다양한 플러그인, 다양한 라이브러리 제공 
+https://plugins.jquery.com/tag/jquery
